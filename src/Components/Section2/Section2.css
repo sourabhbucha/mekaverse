@@ -1,0 +1,12 @@
+.section2 {
+  color: #fff;
+  min-height: 70vh;
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.center > img {
+  margin: auto;
+  width: 90%;
+}

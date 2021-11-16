@@ -1,0 +1,44 @@
+.section1 {
+  padding-top: 5%;
+  margin-top: -15%;
+  clip-path: polygon(0% 0%, 50% 15%, 100% 0%, 100% 100%, 0% 100%);
+  background-color: #01030d;
+  color: #fff;
+  padding-bottom: 100px;
+  min-height: 100vh;
+}
+.section1-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  padding-top: 250px;
+  grid-gap: 80px;
+}
+.grid-section1 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px;
+}
+.grid-section1 > h1 {
+  font-size: 46px;
+  font-weight: 700;
+  color: #dc3b73;
+  margin: 0;
+}
+.grid-section1 > h2 {
+  font-size: 46px;
+  font-weight: 700;
+  margin: 0;
+}
+.grid-section1 > p {
+  font-size: 18px;
+  line-height: 32px;
+  color: #848198;
+}
+.section1-grid > img {
+  height: 400px;
+  margin: auto;
+}
