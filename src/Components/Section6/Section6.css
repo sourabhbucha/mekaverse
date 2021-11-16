@@ -4,6 +4,9 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
 }
 .section6-content {
   display: flex;
