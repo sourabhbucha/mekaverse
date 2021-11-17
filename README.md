@@ -1,6 +1,7 @@
 # Live Demo
 
 Live demo of the page is at [MekaVerse](https://sourabhbucha.github.io/mekaverse/).
+(This is only developed for desktop view)
 
 ## Description
 
